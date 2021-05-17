@@ -20,11 +20,9 @@ L'architecture de l'archive se décrit ainsi :
 Pour lancer le programme, mettez vous à la racine du repertoire et dans un terminal, tapez la commande : make compile. 
 Un exécutable nommé " exec_projet " sera produit et il suffira de le lancer pour obtenir le résultat liée à la compilation des fichiers .cpp. 
 
-Pour effacer cette executable, il suffit de tapez la commande : make clean_exec
+Pour effacer cette executable, il suffit de tapez la commande : make clean_exec.
 
 Pour voir un aperçu des tests unitaires, même chose. A la racine du repertoire " PROJET ", tapez la commande : make test_u. 
-Un exécutable nommé " batterie_test " sera produit et il suffira de le lancer pour obtenir le résultat des quelques tests effectués. 
+Un exécutable nommé " batterie_test " sera produit et il suffira de le lancer pour obtenir le résultat des quelques tests effectués.
 
-Pour effacer cette executable, il suffit de taper la commande : make clean_test
-=======
 
