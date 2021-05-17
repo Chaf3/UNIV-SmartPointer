@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 UNIV-SmartPointer - Projet universitaire de l'année 2019-2020, où le but du jeu était de reproduire le comportement des " pointeurs intelligents " C++, sans les utiliser. 
 
 L'intégralité du projet a été réalisé via l'IDE CLion. 
@@ -25,3 +26,6 @@ Pour voir un aperçu des tests unitaires, même chose. A la racine du repertoire
 Un exécutable nommé " batterie_test " sera produit et il suffira de le lancer pour obtenir le résultat des quelques tests effectués. 
 
 Pour effacer cette executable, il suffit de taper la commande : make clean_test
+=======
+UNIV-SmartPointer
+>>>>>>> parent of 1af10cd... FINAL COMMIT
